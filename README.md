@@ -1,8 +1,8 @@
-# Custom Code Style Checking Tool
+# custom-stylelint
 
 This a custom code style checking tool
 
-## Features
+### Features
 - _Support RobotFramework_
 
 
